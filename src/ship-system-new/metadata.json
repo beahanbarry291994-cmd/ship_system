@@ -1,0 +1,5 @@
+{
+  "name": "Ship Motion Control & Navigation",
+  "description": "A web application simulating ship motion using the second-order KT (Nomoto) equation, featuring A* path planning and autonomous navigation.",
+  "requestFramePermissions": []
+}
