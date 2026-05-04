@@ -1,12 +1,28 @@
 # Ship System
 
-船舶运动控制与导航系统
+<div align="center">
 
-## 项目简介
+**船舶运动控制与导航系统** — 船舶运动控制和导航系统的相关代码和资源
 
-本项目包含船舶运动控制和导航系统的相关代码和资源，涵盖船舶运动建模、控制系统设计和导航算法实现。
+[![HTML5](https://img.shields.io/badge/HTML5-CSS3-blue.svg)](https://developer.mozilla.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-TypeScript-yellow.svg)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-Express-green.svg)](https://nodejs.org/)
+[![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4.svg)](https://ai.google.dev/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 项目结构
+</div>
+
+---
+
+## Features
+
+- **船舶运动建模** — 船舶运动仿真和建模
+- **控制系统设计** — 船舶控制系统实现
+- **导航算法** — 导航算法实现和优化
+- **AI 集成** — 集成 Google Gemini API
+- **现代前端** — 使用 Vite 构建的现代化前端
+
+## Project Structure
 
 ```
 ship_system/
@@ -23,7 +39,7 @@ ship_system/
 └── README.md                         # 项目说明文档
 ```
 
-## 快速开始
+## Quick Start
 
 ### ship-system-latest (AI Studio 应用)
 
@@ -44,20 +60,13 @@ npm run dev
 
 解压对应的 zip 文件，按照各版本的说明进行安装和使用。
 
-## 功能特性
-
-- 🚢 船舶运动建模与仿真
-- 🎮 船舶控制系统设计
-- 🧭 导航算法实现
-- 📊 数据可视化与分析
-
-## 技术栈
+## Technical Stack
 
 - **前端**: HTML5, CSS3, JavaScript/TypeScript
 - **后端**: Node.js
 - **AI**: Google Gemini API
 - **构建工具**: Vite
 
-## 许可证
+## License
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
+[MIT](LICENSE)
